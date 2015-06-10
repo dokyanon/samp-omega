@@ -57,29 +57,29 @@ Functions
   * ToggleUnderwaterEffect(playerid, bool:toggle)
   * ToggleNightVision(playerid, bool:toggle)
   * ToggleThermalVision(playerid, bool:toggle)
-  * native SetWaterColorForPlayer(playerid, Float:r, Float:g, Float:b, Float:a);
-  * native SetWaterColorForAll(Float:r, Float:g, Float:b, Float:a);
-  * native ResetWaterColorForPlayer(playerid);
-  * native ResetWaterColorForAll();
-  * native ToggleQuickReloadForPlayer(playerid, bool:toggle); //returned toggle
-  * native ToggleQuickReloadForAll(bool:toggle); //returned toggle
-  * native SetSunColorForPlayer(playerid, core_r, core_g, core_b, corona_r, corona_g, corona_b);
-  * native SetSunColorForAll(core_r, core_g, core_b, corona_r, corona_g, corona_b);
-  * native ResetSunColorForPlayer(playerid);
-  * native ResetSunColorForAll();
-  * native SetGameSpeedForPlayer(playerid, Float:speed); //returned speed
-  * native SetGameSpeedForAll(Float:speed); //returned speed
-  * native SetRocketDelay(delay); //returned delay
-  * native SetPickupSize(playerid, Float:size); //returned size
-  * native Float:GetPickupSize(playerid);
-  * native TogglePlayerCursor (playerid, bool:toggle); //returned toggle
-  * native bool:GetCursorState(playerid);
-  * native SetPlayerFlameColor(playerid, color_1, color_2);
-  * native GetPlayerFlameColor(playerid, &color_1, &color_2);
-  * native SetPlaneRadarColor (playerid, r, g, b, a);
-  * native GetPlaneRadarColor (playerid, &r, &g, &b, &a);
-  * native SetClockStringFormat(playerid, format[]); //format len !> 10
-  * native SetMoneyStringFormat(playerid, format[]); //format len !> 6
+  * SetWaterColorForPlayer(playerid, Float:r, Float:g, Float:b, Float:a);
+  * SetWaterColorForAll(Float:r, Float:g, Float:b, Float:a);
+  * ResetWaterColorForPlayer(playerid);
+  * ResetWaterColorForAll();
+  * ToggleQuickReloadForPlayer(playerid, bool:toggle); //returned toggle
+  * ToggleQuickReloadForAll(bool:toggle); //returned toggle
+  * SetSunColorForPlayer(playerid, core_r, core_g, core_b, corona_r, corona_g, corona_b);
+  * SetSunColorForAll(core_r, core_g, core_b, corona_r, corona_g, corona_b);
+  * ResetSunColorForPlayer(playerid);
+  * ResetSunColorForAll();
+  * SetGameSpeedForPlayer(playerid, Float:speed); //returned speed
+  * SetGameSpeedForAll(Float:speed); //returned speed
+  * SetRocketDelay(delay); //returned delay
+  * SetPickupSize(playerid, Float:size); //returned size
+  * Float:GetPickupSize(playerid);
+  * TogglePlayerCursor (playerid, bool:toggle); //returned toggle
+  * bool:GetCursorState(playerid);
+  * SetPlayerFlameColor(playerid, color_1, color_2);
+  * GetPlayerFlameColor(playerid, &color_1, &color_2);
+  * SetPlaneRadarColor (playerid, r, g, b, a);
+  * GetPlaneRadarColor (playerid, &r, &g, &b, &a);
+  * SetClockStringFormat(playerid, format[]); //format len !> 10
+  * SetMoneyStringFormat(playerid, format[]); //format len !> 6
 
 ####Callbacks:
   * OnPlayerOpenPauseMenu(playerid)
@@ -94,19 +94,19 @@ Functions
 
 ####Experimental/Unstable:
   * SetPlayerCheckpointEx(playerid, Float:x, Float:y, Float:z, Float:size, colour = 0xFF000020, period = 1024, Float:pulse = 0.1, rotation_rate = 0, bool:check_z = true);
-  * native CreateD3DText (playerid, Float:x, Float:y, Float:w, Float:h, text[], font[]);
-  * native SetD3DText (playerid, textid, text[]);
-  * native ShowD3DText (playerid, id, bool:toggle);
-  * native DestroyD3DText (playerid, id);
-  * native CreateD3DBox (playerid, Float:x, Float:y, Float:w, Float:h, res[], a, r, g, b);
-  * native ShowD3DBox (playerid, id, bool:toggle);
-  * native DestroyD3DBox (playerid, id);
-  * native CreateD3DSprite (playerid, Float:x, Float:y, Float:w, Float:h, res[]);
-  * native DestroyD3DSprite (playerid, id);
-  * native ResizeD3DSprite (playerid, id, Float:w, Float:h);
-  * native MoveD3DSprite (playerid, id, Float:x, Float:y);
-  * native RotateD3DSprite (playerid, id, Float:angle);
-  * native ShowD3DSprite (playerid, id, bool:toggle); 
+  * CreateD3DText (playerid, Float:x, Float:y, Float:w, Float:h, text[], font[]);
+  * SetD3DText (playerid, textid, text[]);
+  * ShowD3DText (playerid, id, bool:toggle);
+  * DestroyD3DText (playerid, id);
+  * CreateD3DBox (playerid, Float:x, Float:y, Float:w, Float:h, res[], a, r, g, b);
+  * ShowD3DBox (playerid, id, bool:toggle);
+  * DestroyD3DBox (playerid, id);
+  * CreateD3DSprite (playerid, Float:x, Float:y, Float:w, Float:h, res[]);
+  * DestroyD3DSprite (playerid, id);
+  * ResizeD3DSprite (playerid, id, Float:w, Float:h);
+  * MoveD3DSprite (playerid, id, Float:x, Float:y);
+  * RotateD3DSprite (playerid, id, Float:angle);
+  * ShowD3DSprite (playerid, id, bool:toggle); 
 
 Compilation
 ---------
