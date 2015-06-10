@@ -1,0 +1,138 @@
+@font-face {
+    font-family: HelveticaBold;
+    src: url('../fonts/HelveticaNeueCyr-Bold.otf');
+}
+@font-face {
+    font-family: HelveticaMedium;
+    src: url('../fonts/HelveticaNeueCyr-Medium.ttf');
+}
+@font-face {
+    font-family: HelveticaRoman;
+    src: url('../fonts/HelveticaNeueCyr-Roman.otf');
+}
+body {
+   background-color: #000;
+   font-family: HelveticaRoman,HelveticaMedium,HelveticaBold;
+}
+li {
+   list-style-type: none;
+}
+a {
+   text-decoration: none;
+}
+* {
+   margin: 0;
+   padding: 0;
+}
+#pagetop {
+    width: 100%;
+	min-width: 1002px;
+	height: 1000px;	
+}
+#wrapper {
+    position: relative;
+	max-width: 1901px;
+	min-width: 1002px;
+	min-height: 1000px;
+	margin: 0 auto;
+	padding: 0 0 0 0;
+}
+.sloy {
+    width: 1002px;
+	height: 100%;
+	margin: 0 auto;
+}
+#header {
+   position: relative;
+   background-color: #252629;
+   width: 100%;
+   height: 82px;
+}
+#menu { 
+   position: relative;
+   float: right;
+   margin-right: 0px;
+   margin-top: 20px;   
+   width: 500px; 
+   height: 42px;
+   font-size: 14px;
+   padding: 13px 0 0 15px;
+}
+#menu a:hover {
+    font-weight: bold;
+	color: #ffffff;
+}
+#menu a{ font-weight: bold; color: #cfcfcf; position: relative; float: left; padding-right: 10px; height:5px;}
+#logo {
+    position: relative;
+	float: left;
+	margin: 30px 0 0 35px;
+}
+#logo a:hover {
+    opacity: 0.7;
+	transition:all 0.3s ease; 
+}
+#banner {
+    position: relative;
+	background-image: url('../images/banner.png');
+	margin: 0 auto;
+	padding: 0 0 0 0;
+	width: 100%;
+	height: 612px;
+}
+#content {
+   position: relative;
+   background-color: #e8edef;
+   width: 100%;
+   height: 800px;
+   padding: 50px 0 0 0;
+}
+
+.blockn {
+  width: 90%;
+  margin: 25px 0 25px 35px;
+  padding: 10px 10px 10px 10px;
+  background-color: #fff;
+  color: #56595f;
+}
+
+.title {
+  color: #38393c;
+  font-weight: bold;
+  font-size: 21px;
+  margin: 0 0 30px 35px;
+}
+
+.titlen {
+  color: #5f6065;
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px 0 0 20px;
+}
+
+.daten {
+  color: #88959a;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 5px 0 20px 20px;
+}
+
+.news {
+  color: #47494e;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 0 20px;
+  padding: 0 0 10px 0;
+}
+#line {
+  width: 100%;
+  height: 80px;
+  background-image: url('../images/trackimg.png');
+}
+#back {
+   position: relative;
+   background-color: #e8edef;
+   width: 100%;
+   height: 500px;
+   padding: 50px 0 0 0;
+}
