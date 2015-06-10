@@ -1,0 +1,1696 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:11:32] 
+[00:11:32] Server Plugins
+[00:11:32] --------------
+[00:11:32]  Loading plugin: crashdetect
+[00:11:32]   CrashDetect v4.15.1 is OK.
+[00:11:32]   Loaded.
+[00:11:32]  Loading plugin: sampp_server
+[00:11:32] [SA-MP+] Loaded
+[00:11:32]   Loaded.
+[00:11:32]  Loading plugin: sscanf
+[00:11:32] 
+
+[00:11:32]  ===============================
+
+[00:11:32]       sscanf plugin loaded.     
+
+[00:11:32]          Version:  2.8.1        
+
+[00:11:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:11:32]  ===============================
+
+[00:11:32]   Loaded.
+[00:11:32]  Loading plugin: dc_cmd
+[00:11:32]   Daniel's CMD plugin v2.8
+[00:11:32]     (c) 2014 Daniel_Cortez
+[00:11:32] 	www.pro-pawn.ru
+[00:11:32]   Loaded.
+[00:11:32]  Loaded 4 plugins.
+
+[00:11:32] 
+[00:11:32] Filterscripts
+[00:11:32] ---------------
+[00:11:32]   Loaded 0 filterscripts.
+
+[00:11:32] [debug] Run time error 19: "File or function is not found"
+[00:11:32] [debug]  GetPlayerPickupSize
+[00:11:32] [debug] Run time error 19: "File or function is not found"
+[00:11:32] [debug]  GetPlayerPickupSize
+[00:11:32] Script[gamemodes/new.amx]: Run time error 19: "File or function is not found"
+[00:11:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:12:57] 
+[00:12:57] Server Plugins
+[00:12:57] --------------
+[00:12:57]  Loading plugin: crashdetect
+[00:12:57]   CrashDetect v4.15.1 is OK.
+[00:12:57]   Loaded.
+[00:12:57]  Loading plugin: sampp_server
+[00:12:57] [SA-MP+] Loaded
+[00:12:57]   Loaded.
+[00:12:57]  Loading plugin: sscanf
+[00:12:57] 
+
+[00:12:57]  ===============================
+
+[00:12:57]       sscanf plugin loaded.     
+
+[00:12:57]          Version:  2.8.1        
+
+[00:12:57]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:12:57]  ===============================
+
+[00:12:57]   Loaded.
+[00:12:57]  Loading plugin: dc_cmd
+[00:12:57]   Daniel's CMD plugin v2.8
+[00:12:57]     (c) 2014 Daniel_Cortez
+[00:12:57] 	www.pro-pawn.ru
+[00:12:57]   Loaded.
+[00:12:57]  Loaded 4 plugins.
+
+[00:12:57] 
+[00:12:57] Filterscripts
+[00:12:57] ---------------
+[00:12:57]   Loaded 0 filterscripts.
+
+[00:12:57] Number of vehicle models: 0
+[00:14:08] [SA-MP+] Unhandled connection accepted: 127.0.0.1:63212
+[00:14:08] [SA-MP+] Unknown packet received: 19, local: 0
+[00:14:13] Incoming connection: 127.0.0.1:49842
+[00:14:13] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:14:13] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[00:15:15] [part] Exterminator_Snipa has left the server (0:1)
+[00:15:15] [SA-MP+] Disconnected: 127.0.0.1|63212
+[00:15:15] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[00:15:52] [SA-MP+] Unhandled connection accepted: 127.0.0.1:58251
+[00:15:52] [SA-MP+] Unknown packet received: 19, local: 0
+[00:15:56] Incoming connection: 127.0.0.1:64742
+[00:15:56] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:15:56] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[00:16:21] [SA-MP+] Connection lost: 127.0.0.1|58251
+[00:16:21] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[00:16:35] [part] Exterminator_Snipa has left the server (0:0)
+[00:17:07] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50239
+[00:17:07] [SA-MP+] Unknown packet received: 19, local: 0
+[00:17:11] Incoming connection: 127.0.0.1:58624
+[00:17:12] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:17:12] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:23:00] 
+[00:23:00] Server Plugins
+[00:23:00] --------------
+[00:23:00]  Loading plugin: crashdetect
+[00:23:00]   CrashDetect v4.15.1 is OK.
+[00:23:00]   Loaded.
+[00:23:00]  Loading plugin: sampp_server
+[00:23:00] [SA-MP+] Loaded
+[00:23:00]   Loaded.
+[00:23:00]  Loading plugin: sscanf
+[00:23:00] 
+
+[00:23:00]  ===============================
+
+[00:23:00]       sscanf plugin loaded.     
+
+[00:23:00]          Version:  2.8.1        
+
+[00:23:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:23:00]  ===============================
+
+[00:23:00]   Loaded.
+[00:23:00]  Loading plugin: dc_cmd
+[00:23:01]   Daniel's CMD plugin v2.8
+[00:23:01]     (c) 2014 Daniel_Cortez
+[00:23:01] 	www.pro-pawn.ru
+[00:23:01]   Loaded.
+[00:23:01]  Loaded 4 plugins.
+
+[00:23:01] 
+[00:23:01] Filterscripts
+[00:23:01] ---------------
+[00:23:01]   Loaded 0 filterscripts.
+
+[00:23:01] Number of vehicle models: 0
+[00:23:11] Incoming connection: 127.0.0.1:52574
+[00:23:11] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50239
+[00:23:11] [SA-MP+] Unknown packet received: 19, local: 0
+[00:23:21] Incoming connection: 127.0.0.1:52577
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:23:28] 
+[00:23:28] Server Plugins
+[00:23:28] --------------
+[00:23:28]  Loading plugin: crashdetect
+[00:23:28]   CrashDetect v4.15.1 is OK.
+[00:23:28]   Loaded.
+[00:23:28]  Loading plugin: sampp_server
+[00:23:28] [SA-MP+] Loaded
+[00:23:28]   Loaded.
+[00:23:28]  Loading plugin: sscanf
+[00:23:28] 
+
+[00:23:28]  ===============================
+
+[00:23:28]       sscanf plugin loaded.     
+
+[00:23:28]          Version:  2.8.1        
+
+[00:23:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:23:28]  ===============================
+
+[00:23:28]   Loaded.
+[00:23:28]  Loading plugin: dc_cmd
+[00:23:28]   Daniel's CMD plugin v2.8
+[00:23:28]     (c) 2014 Daniel_Cortez
+[00:23:28] 	www.pro-pawn.ru
+[00:23:28]   Loaded.
+[00:23:28]  Loaded 4 plugins.
+
+[00:23:28] 
+[00:23:28] Filterscripts
+[00:23:28] ---------------
+[00:23:28]   Loaded 0 filterscripts.
+
+[00:23:28] Number of vehicle models: 0
+[00:23:33] Incoming connection: 127.0.0.1:56292
+[00:23:36] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50239
+[00:23:36] [SA-MP+] Unknown packet received: 19, local: 0
+[00:23:43] Incoming connection: 127.0.0.1:65057
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:23:50] 
+[00:23:50] Server Plugins
+[00:23:50] --------------
+[00:23:50]  Loading plugin: crashdetect
+[00:23:50]   CrashDetect v4.15.1 is OK.
+[00:23:50]   Loaded.
+[00:23:50]  Loading plugin: sampp_server
+[00:23:50] [SA-MP+] Loaded
+[00:23:50]   Loaded.
+[00:23:50]  Loading plugin: sscanf
+[00:23:50] 
+
+[00:23:50]  ===============================
+
+[00:23:50]       sscanf plugin loaded.     
+
+[00:23:50]          Version:  2.8.1        
+
+[00:23:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:23:50]  ===============================
+
+[00:23:50]   Loaded.
+[00:23:50]  Loading plugin: dc_cmd
+[00:23:50]   Daniel's CMD plugin v2.8
+[00:23:50]     (c) 2014 Daniel_Cortez
+[00:23:50] 	www.pro-pawn.ru
+[00:23:50]   Loaded.
+[00:23:50]  Loaded 4 plugins.
+
+[00:23:50] 
+[00:23:50] Filterscripts
+[00:23:50] ---------------
+[00:23:50]   Loaded 0 filterscripts.
+
+[00:23:50] Number of vehicle models: 0
+[00:23:55] Incoming connection: 127.0.0.1:64186
+[00:23:56] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50239
+[00:23:56] [SA-MP+] Unknown packet received: 19, local: 0
+[00:24:05] Incoming connection: 127.0.0.1:54705
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:24:10] 
+[00:24:10] Server Plugins
+[00:24:10] --------------
+[00:24:10]  Loading plugin: crashdetect
+[00:24:10]   CrashDetect v4.15.1 is OK.
+[00:24:10]   Loaded.
+[00:24:10]  Loading plugin: sampp_server
+[00:24:10] [SA-MP+] Loaded
+[00:24:10]   Loaded.
+[00:24:10]  Loading plugin: sscanf
+[00:24:10] 
+
+[00:24:10]  ===============================
+
+[00:24:10]       sscanf plugin loaded.     
+
+[00:24:10]          Version:  2.8.1        
+
+[00:24:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:24:10]  ===============================
+
+[00:24:10]   Loaded.
+[00:24:10]  Loading plugin: dc_cmd
+[00:24:10]   Daniel's CMD plugin v2.8
+[00:24:10]     (c) 2014 Daniel_Cortez
+[00:24:10] 	www.pro-pawn.ru
+[00:24:10]   Loaded.
+[00:24:10]  Loaded 4 plugins.
+
+[00:24:10] 
+[00:24:10] Filterscripts
+[00:24:10] ---------------
+[00:24:10]   Loaded 0 filterscripts.
+
+[00:24:10] Number of vehicle models: 0
+[00:24:19] Incoming connection: 127.0.0.1:63955
+[00:24:19] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50239
+[00:24:19] [SA-MP+] Unknown packet received: 19, local: 0
+[00:24:19] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:24:19] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:45:23] 
+[00:45:23] Server Plugins
+[00:45:23] --------------
+[00:45:23]  Loading plugin: crashdetect
+[00:45:23]   CrashDetect v4.15.1 is OK.
+[00:45:23]   Loaded.
+[00:45:23]  Loading plugin: sampp_server
+[00:45:23] [SA-MP+] Loaded
+[00:45:24]   Loaded.
+[00:45:24]  Loading plugin: sscanf
+[00:45:24] 
+
+[00:45:24]  ===============================
+
+[00:45:24]       sscanf plugin loaded.     
+
+[00:45:24]          Version:  2.8.1        
+
+[00:45:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:45:24]  ===============================
+
+[00:45:24]   Loaded.
+[00:45:24]  Loading plugin: dc_cmd
+[00:45:24]   Daniel's CMD plugin v2.8
+[00:45:24]     (c) 2014 Daniel_Cortez
+[00:45:24] 	www.pro-pawn.ru
+[00:45:24]   Loaded.
+[00:45:24]  Loaded 4 plugins.
+
+[00:45:24] 
+[00:45:24] Filterscripts
+[00:45:24] ---------------
+[00:45:24]   Loaded 0 filterscripts.
+
+[00:45:24] Number of vehicle models: 0
+[00:45:53] [SA-MP+] Unhandled connection accepted: 127.0.0.1:55691
+[00:45:53] [SA-MP+] Unknown packet received: 19, local: 0
+[00:45:57] Incoming connection: 127.0.0.1:50261
+[00:45:58] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:45:58] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:47:11] 
+[00:47:11] Server Plugins
+[00:47:11] --------------
+[00:47:11]  Loading plugin: crashdetect
+[00:47:11]   CrashDetect v4.15.1 is OK.
+[00:47:11]   Loaded.
+[00:47:11]  Loading plugin: sampp_server
+[00:47:11] [SA-MP+] Loaded
+[00:47:11]   Loaded.
+[00:47:11]  Loading plugin: sscanf
+[00:47:11] 
+
+[00:47:11]  ===============================
+
+[00:47:11]       sscanf plugin loaded.     
+
+[00:47:11]          Version:  2.8.1        
+
+[00:47:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:47:11]  ===============================
+
+[00:47:11]   Loaded.
+[00:47:11]  Loading plugin: dc_cmd
+[00:47:11]   Daniel's CMD plugin v2.8
+[00:47:11]     (c) 2014 Daniel_Cortez
+[00:47:11] 	www.pro-pawn.ru
+[00:47:11]   Loaded.
+[00:47:11]  Loaded 4 plugins.
+
+[00:47:11] 
+[00:47:11] Filterscripts
+[00:47:11] ---------------
+[00:47:11]   Loaded 0 filterscripts.
+
+[00:47:11] Number of vehicle models: 0
+[00:47:30] [SA-MP+] Unhandled connection accepted: 127.0.0.1:65363
+[00:47:30] [SA-MP+] Unknown packet received: 19, local: 0
+[00:47:34] Incoming connection: 127.0.0.1:56061
+[00:47:34] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:47:34] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[00:47:48] [part] Exterminator_Snipa has left the server (0:1)
+[00:47:48] [SA-MP+] Disconnected: 127.0.0.1|65363
+[00:47:48] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[00:52:33] 
+[00:52:33] Server Plugins
+[00:52:33] --------------
+[00:52:33]  Loading plugin: crashdetect
+[00:52:33]   CrashDetect v4.15.1 is OK.
+[00:52:33]   Loaded.
+[00:52:33]  Loading plugin: sampp_server
+[00:52:33] [SA-MP+] Loaded
+[00:52:35]   Loaded.
+[00:52:35]  Loading plugin: sscanf
+[00:52:35] 
+
+[00:52:35]  ===============================
+
+[00:52:35]       sscanf plugin loaded.     
+
+[00:52:35]          Version:  2.8.1        
+
+[00:52:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:52:35]  ===============================
+
+[00:52:35]   Loaded.
+[00:52:35]  Loading plugin: dc_cmd
+[00:52:35]   Daniel's CMD plugin v2.8
+[00:52:35]     (c) 2014 Daniel_Cortez
+[00:52:35] 	www.pro-pawn.ru
+[00:52:35]   Loaded.
+[00:52:35]  Loaded 4 plugins.
+
+[00:52:35] 
+[00:52:35] Filterscripts
+[00:52:35] ---------------
+[00:52:35]   Loaded 0 filterscripts.
+
+[00:52:35] Number of vehicle models: 0
+[00:53:18] [SA-MP+] Unhandled connection accepted: 127.0.0.1:61696
+[00:53:18] [SA-MP+] Unknown packet received: 19, local: 0
+[00:53:22] Incoming connection: 127.0.0.1:61699
+[00:53:22] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:53:22] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[00:53:32] [SA-MP+] Connection lost: 127.0.0.1|61696
+[00:53:32] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[00:53:37] [part] Exterminator_Snipa has left the server (0:0)
+[00:57:03] [SA-MP+] Unhandled connection accepted: 127.0.0.1:56674
+[00:57:03] [SA-MP+] Unknown packet received: 19, local: 0
+[00:57:07] Incoming connection: 127.0.0.1:56737
+[00:57:07] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:57:07] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[00:57:18] [SA-MP+] Connection lost: 127.0.0.1|56674
+[00:57:18] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[00:57:23] [part] Exterminator_Snipa has left the server (0:0)
+[00:58:04] [SA-MP+] Unhandled connection accepted: 127.0.0.1:53252
+[00:58:04] [SA-MP+] Unknown packet received: 19, local: 0
+[00:58:08] Incoming connection: 127.0.0.1:53253
+[00:58:09] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[00:58:09] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[00:58:20] [part] Exterminator_Snipa has left the server (0:1)
+[00:58:20] [SA-MP+] Disconnected: 127.0.0.1|53252
+[00:58:20] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:02:47] [SA-MP+] Unhandled connection accepted: 127.0.0.1:64362
+[01:02:47] [SA-MP+] Unknown packet received: 19, local: 0
+[01:02:51] Incoming connection: 127.0.0.1:64364
+[01:02:51] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:02:51] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:03:05] [part] Exterminator_Snipa has left the server (0:1)
+[01:03:05] [SA-MP+] Disconnected: 127.0.0.1|64362
+[01:03:05] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:09:51] [SA-MP+] Unhandled connection accepted: 127.0.0.1:51620
+[01:09:51] [SA-MP+] Unknown packet received: 19, local: 0
+[01:09:55] Incoming connection: 127.0.0.1:56954
+[01:09:55] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:09:55] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:10:05] [SA-MP+] Connection lost: 127.0.0.1|51620
+[01:10:05] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:10:35] [part] Exterminator_Snipa has left the server (0:0)
+[01:14:18] [SA-MP+] Unhandled connection accepted: 127.0.0.1:49966
+[01:14:18] [SA-MP+] Unknown packet received: 19, local: 0
+[01:14:22] Incoming connection: 127.0.0.1:49967
+[01:14:22] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:14:22] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:14:40] [part] Exterminator_Snipa has left the server (0:1)
+[01:14:40] [SA-MP+] Disconnected: 127.0.0.1|49966
+[01:14:40] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:17:14] [SA-MP+] Unhandled connection accepted: 127.0.0.1:57680
+[01:17:14] [SA-MP+] Unknown packet received: 19, local: 0
+[01:17:18] Incoming connection: 127.0.0.1:51063
+[01:17:18] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:17:18] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:17:28] [SA-MP+] Connection lost: 127.0.0.1|57680
+[01:17:28] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:17:50] [part] Exterminator_Snipa has left the server (0:0)
+[01:23:11] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50392
+[01:23:11] [SA-MP+] Unknown packet received: 19, local: 0
+[01:23:15] Incoming connection: 127.0.0.1:54548
+[01:23:15] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:23:15] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:25:51] [part] Exterminator_Snipa has left the server (0:1)
+[01:25:51] [SA-MP+] Disconnected: 127.0.0.1|50392
+[01:25:51] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:26:51] [SA-MP+] Unhandled connection accepted: 127.0.0.1:59234
+[01:26:51] [SA-MP+] Unknown packet received: 19, local: 0
+[01:26:55] Incoming connection: 127.0.0.1:60786
+[01:26:55] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:26:55] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:27:12] [part] Exterminator_Snipa has left the server (0:1)
+[01:27:12] [SA-MP+] Disconnected: 127.0.0.1|59234
+[01:27:12] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:28:12] [SA-MP+] Unhandled connection accepted: 127.0.0.1:56177
+[01:28:12] [SA-MP+] Unknown packet received: 19, local: 0
+[01:28:16] Incoming connection: 127.0.0.1:51006
+[01:28:17] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:28:17] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:28:27] [SA-MP+] Connection lost: 127.0.0.1|56177
+[01:28:27] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[01:28:32] [part] Exterminator_Snipa has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[01:41:09] 
+[01:41:09] Server Plugins
+[01:41:09] --------------
+[01:41:09]  Loading plugin: crashdetect
+[01:41:09]   CrashDetect v4.15.1 is OK.
+[01:41:09]   Loaded.
+[01:41:09]  Loading plugin: sampp_server
+[01:41:09] [SA-MP+] Loaded
+[01:41:09]   Loaded.
+[01:41:09]  Loading plugin: sscanf
+[01:41:10] 
+
+[01:41:10]  ===============================
+
+[01:41:10]       sscanf plugin loaded.     
+
+[01:41:10]          Version:  2.8.1        
+
+[01:41:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:41:10]  ===============================
+
+[01:41:10]   Loaded.
+[01:41:10]  Loading plugin: dc_cmd
+[01:41:10]   Daniel's CMD plugin v2.8
+[01:41:10]     (c) 2014 Daniel_Cortez
+[01:41:10] 	www.pro-pawn.ru
+[01:41:10]   Loaded.
+[01:41:10]  Loaded 4 plugins.
+
+[01:41:10] 
+[01:41:10] Filterscripts
+[01:41:10] ---------------
+[01:41:10]   Loaded 0 filterscripts.
+
+[01:41:10] Number of vehicle models: 0
+[01:41:29] [SA-MP+] Unhandled connection accepted: 127.0.0.1:61321
+[01:41:29] [SA-MP+] Unknown packet received: 19, local: 0
+[01:41:33] Incoming connection: 127.0.0.1:53076
+[01:41:33] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:41:33] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:41:43] [part] Exterminator_Snipa has left the server (0:1)
+[01:41:43] [SA-MP+] Disconnected: 127.0.0.1|61321
+[01:41:43] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[01:51:20] 
+[01:51:20] Server Plugins
+[01:51:20] --------------
+[01:51:20]  Loading plugin: crashdetect
+[01:51:20]   CrashDetect v4.15.1 is OK.
+[01:51:20]   Loaded.
+[01:51:20]  Loading plugin: sampp_server
+[01:51:20] [SA-MP+] Loaded
+[01:51:20]   Loaded.
+[01:51:20]  Loading plugin: sscanf
+[01:51:20] 
+
+[01:51:20]  ===============================
+
+[01:51:20]       sscanf plugin loaded.     
+
+[01:51:20]          Version:  2.8.1        
+
+[01:51:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[01:51:20]  ===============================
+
+[01:51:20]   Loaded.
+[01:51:20]  Loading plugin: dc_cmd
+[01:51:20]   Daniel's CMD plugin v2.8
+[01:51:20]     (c) 2014 Daniel_Cortez
+[01:51:20] 	www.pro-pawn.ru
+[01:51:20]   Loaded.
+[01:51:20]  Loaded 4 plugins.
+
+[01:51:20] 
+[01:51:20] Filterscripts
+[01:51:20] ---------------
+[01:51:20]   Loaded 0 filterscripts.
+
+[01:51:20] Number of vehicle models: 0
+[01:51:43] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50442
+[01:51:43] [SA-MP+] Unknown packet received: 19, local: 0
+[01:51:47] Incoming connection: 127.0.0.1:50444
+[01:51:47] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[01:51:47] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[01:51:51] [part] Exterminator_Snipa has left the server (0:1)
+[01:51:52] [SA-MP+] Disconnected: 127.0.0.1|50442
+[01:51:52] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[02:00:12] [SA-MP+] Unhandled connection accepted: 127.0.0.1:64379
+[02:00:12] [SA-MP+] Unknown packet received: 19, local: 0
+[02:00:16] Incoming connection: 127.0.0.1:64442
+[02:00:16] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[02:00:16] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[02:00:18] [part] Exterminator_Snipa has left the server (0:1)
+[02:00:18] [SA-MP+] Disconnected: 127.0.0.1|64379
+[02:00:18] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[02:04:26] [SA-MP+] Unhandled connection accepted: 127.0.0.1:61178
+[02:04:26] [SA-MP+] Unknown packet received: 19, local: 0
+[02:04:30] Incoming connection: 127.0.0.1:54864
+[02:04:31] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[02:04:31] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[02:04:33] [part] Exterminator_Snipa has left the server (0:1)
+[02:04:33] [SA-MP+] Disconnected: 127.0.0.1|61178
+[02:04:33] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[02:05:55] [SA-MP+] Unhandled connection accepted: 127.0.0.1:51091
+[02:05:55] [SA-MP+] Unknown packet received: 19, local: 0
+[02:05:59] Incoming connection: 127.0.0.1:49968
+[02:06:00] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[02:06:00] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[02:06:01] [part] Exterminator_Snipa has left the server (0:1)
+[02:06:01] [SA-MP+] Disconnected: 127.0.0.1|51091
+[02:06:01] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[02:47:49] 
+[02:47:49] Server Plugins
+[02:47:49] --------------
+[02:47:49]  Loading plugin: crashdetect
+[02:47:49]   CrashDetect v4.15.1 is OK.
+[02:47:49]   Loaded.
+[02:47:49]  Loading plugin: sampp_server
+[02:47:49] [SA-MP+] Loaded
+[02:47:49]   Loaded.
+[02:47:49]  Loading plugin: sscanf
+[02:47:49] 
+
+[02:47:49]  ===============================
+
+[02:47:49]       sscanf plugin loaded.     
+
+[02:47:49]          Version:  2.8.1        
+
+[02:47:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:47:49]  ===============================
+
+[02:47:49]   Loaded.
+[02:47:49]  Loading plugin: dc_cmd
+[02:47:49]   Daniel's CMD plugin v2.8
+[02:47:49]     (c) 2014 Daniel_Cortez
+[02:47:49] 	www.pro-pawn.ru
+[02:47:49]   Loaded.
+[02:47:49]  Loaded 4 plugins.
+
+[02:47:49] 
+[02:47:49] Filterscripts
+[02:47:49] ---------------
+[02:47:49]   Loaded 0 filterscripts.
+
+[02:47:49] Number of vehicle models: 0
+[02:48:22] [SA-MP+] Unhandled connection accepted: 127.0.0.1:54232
+[02:48:22] [SA-MP+] Unknown packet received: 19, local: 0
+[02:48:26] Incoming connection: 127.0.0.1:54234
+[02:48:27] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[02:48:27] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[02:48:42] [SA-MP+] Connection lost: 127.0.0.1|54232
+[02:48:42] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[02:48:59] [part] Exterminator_Snipa has left the server (0:0)
+[02:49:22] [SA-MP+] Unhandled connection accepted: 127.0.0.1:53327
+[02:49:22] [SA-MP+] Unknown packet received: 19, local: 0
+[02:49:27] Incoming connection: 127.0.0.1:53329
+[02:49:27] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[02:49:27] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[02:50:18] [part] Exterminator_Snipa has left the server (0:1)
+[02:50:18] [SA-MP+] Disconnected: 127.0.0.1|53327
+[02:50:18] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[02:51:23] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50706
+[02:51:23] [SA-MP+] Unknown packet received: 19, local: 0
+[02:51:35] Incoming connection: 127.0.0.1:62431
+[02:51:35] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[02:51:35] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[02:53:05] [SA-MP+] Connection lost: 127.0.0.1|50706
+[02:53:05] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[02:53:20] [part] Exterminator_Snipa has left the server (0:0)
+[02:58:27] [SA-MP+] Unhandled connection accepted: 127.0.0.1:60899
+[02:58:27] [SA-MP+] Unknown packet received: 19, local: 0
+[02:58:36] Incoming connection: 127.0.0.1:54851
+[02:58:36] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[02:58:36] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:00:02] [SA-MP+] Connection lost: 127.0.0.1|60899
+[03:00:02] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:00:06] [part] Exterminator_Snipa has left the server (0:0)
+[03:00:17] [SA-MP+] Unhandled connection accepted: 127.0.0.1:64904
+[03:00:17] [SA-MP+] Unknown packet received: 19, local: 0
+[03:00:28] Incoming connection: 127.0.0.1:58987
+[03:00:28] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:00:28] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:03:43] [part] Exterminator_Snipa has left the server (0:1)
+[03:03:43] [SA-MP+] Disconnected: 127.0.0.1|64904
+[03:03:43] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:04:21] [SA-MP+] Unhandled connection accepted: 127.0.0.1:57843
+[03:04:21] [SA-MP+] Unknown packet received: 19, local: 0
+[03:04:25] Incoming connection: 127.0.0.1:57845
+[03:04:25] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:04:25] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:08:35] [SA-MP+] Connection lost: 127.0.0.1|57843
+[03:08:35] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:08:50] [part] Exterminator_Snipa has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[03:10:16] 
+[03:10:16] Server Plugins
+[03:10:16] --------------
+[03:10:16]  Loading plugin: crashdetect
+[03:10:16]   CrashDetect v4.15.1 is OK.
+[03:10:16]   Loaded.
+[03:10:16]  Loading plugin: sampp_server
+[03:10:16] [SA-MP+] Loaded
+[03:10:16]   Loaded.
+[03:10:16]  Loading plugin: sscanf
+[03:10:16] 
+
+[03:10:16]  ===============================
+
+[03:10:16]       sscanf plugin loaded.     
+
+[03:10:16]          Version:  2.8.1        
+
+[03:10:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:10:16]  ===============================
+
+[03:10:16]   Loaded.
+[03:10:16]  Loading plugin: dc_cmd
+[03:10:16]   Daniel's CMD plugin v2.8
+[03:10:16]     (c) 2014 Daniel_Cortez
+[03:10:16] 	www.pro-pawn.ru
+[03:10:16]   Loaded.
+[03:10:16]  Loaded 4 plugins.
+
+[03:10:16] 
+[03:10:16] Filterscripts
+[03:10:16] ---------------
+[03:10:16]   Loaded 0 filterscripts.
+
+[03:10:16] Number of vehicle models: 0
+[03:10:35] [SA-MP+] Unhandled connection accepted: 127.0.0.1:51834
+[03:10:35] [SA-MP+] Unknown packet received: 19, local: 0
+[03:10:45] Incoming connection: 127.0.0.1:63910
+[03:10:46] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:10:46] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[03:35:44] 
+[03:35:44] Server Plugins
+[03:35:44] --------------
+[03:35:44]  Loading plugin: crashdetect
+[03:35:44]   CrashDetect v4.15.1 is OK.
+[03:35:44]   Loaded.
+[03:35:44]  Loading plugin: sampp_server
+[03:35:44] [SA-MP+] Loaded
+[03:35:44]   Loaded.
+[03:35:44]  Loading plugin: sscanf
+[03:35:44] 
+
+[03:35:44]  ===============================
+
+[03:35:44]       sscanf plugin loaded.     
+
+[03:35:44]          Version:  2.8.1        
+
+[03:35:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:35:44]  ===============================
+
+[03:35:44]   Loaded.
+[03:35:44]  Loading plugin: dc_cmd
+[03:35:44]   Daniel's CMD plugin v2.8
+[03:35:44]     (c) 2014 Daniel_Cortez
+[03:35:44] 	www.pro-pawn.ru
+[03:35:44]   Loaded.
+[03:35:44]  Loaded 4 plugins.
+
+[03:35:44] 
+[03:35:44] Filterscripts
+[03:35:44] ---------------
+[03:35:44]   Loaded 0 filterscripts.
+
+[03:35:44] Number of vehicle models: 0
+[03:36:11] [SA-MP+] Unhandled connection accepted: 127.0.0.1:60317
+[03:36:11] [SA-MP+] Unknown packet received: 19, local: 0
+[03:36:15] Incoming connection: 127.0.0.1:59658
+[03:36:16] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:36:16] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:36:41] sscanf warning: String buffer overflow.
+[03:36:48] sscanf warning: String buffer overflow.
+[03:38:22] [SA-MP+] Connection lost: 127.0.0.1|60317
+[03:38:22] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:38:29] [part] Exterminator_Snipa has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[03:38:47] 
+[03:38:47] Server Plugins
+[03:38:47] --------------
+[03:38:47]  Loading plugin: crashdetect
+[03:38:47]   CrashDetect v4.15.1 is OK.
+[03:38:47]   Loaded.
+[03:38:47]  Loading plugin: sampp_server
+[03:38:47] [SA-MP+] Loaded
+[03:38:47]   Loaded.
+[03:38:47]  Loading plugin: sscanf
+[03:38:47] 
+
+[03:38:47]  ===============================
+
+[03:38:47]       sscanf plugin loaded.     
+
+[03:38:47]          Version:  2.8.1        
+
+[03:38:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[03:38:47]  ===============================
+
+[03:38:47]   Loaded.
+[03:38:47]  Loading plugin: dc_cmd
+[03:38:47]   Daniel's CMD plugin v2.8
+[03:38:47]     (c) 2014 Daniel_Cortez
+[03:38:47] 	www.pro-pawn.ru
+[03:38:47]   Loaded.
+[03:38:47]  Loaded 4 plugins.
+
+[03:38:47] 
+[03:38:47] Filterscripts
+[03:38:47] ---------------
+[03:38:47]   Loaded 0 filterscripts.
+
+[03:38:47] Number of vehicle models: 0
+[03:39:12] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50935
+[03:39:12] [SA-MP+] Unknown packet received: 19, local: 0
+[03:39:16] Incoming connection: 127.0.0.1:53223
+[03:39:16] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:39:16] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:40:47] [part] Exterminator_Snipa has left the server (0:1)
+[03:40:47] [SA-MP+] Disconnected: 127.0.0.1|50935
+[03:40:47] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:41:40] [SA-MP+] Unhandled connection accepted: 127.0.0.1:61895
+[03:41:40] [SA-MP+] Unknown packet received: 19, local: 0
+[03:41:44] Incoming connection: 127.0.0.1:54776
+[03:41:44] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:41:44] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:42:33] [SA-MP+] Connection lost: 127.0.0.1|61895
+[03:42:33] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:42:47] [part] Exterminator_Snipa has left the server (0:0)
+[03:43:14] [SA-MP+] Unhandled connection accepted: 127.0.0.1:51990
+[03:43:14] [SA-MP+] Unknown packet received: 19, local: 0
+[03:43:18] Incoming connection: 127.0.0.1:62941
+[03:43:19] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:43:19] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:46:45] [part] Exterminator_Snipa has left the server (0:1)
+[03:46:45] [SA-MP+] Disconnected: 127.0.0.1|51990
+[03:46:45] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:47:52] [SA-MP+] Unhandled connection accepted: 127.0.0.1:51457
+[03:47:52] [SA-MP+] Unknown packet received: 19, local: 0
+[03:47:56] Incoming connection: 127.0.0.1:49994
+[03:47:57] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:47:57] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:48:31] [SA-MP+] Connection lost: 127.0.0.1|51457
+[03:48:31] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:48:47] [part] Exterminator_Snipa has left the server (0:0)
+[03:50:08] [SA-MP+] Unhandled connection accepted: 127.0.0.1:58897
+[03:50:08] [SA-MP+] Unknown packet received: 19, local: 0
+[03:50:12] Incoming connection: 127.0.0.1:58898
+[03:50:12] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:50:12] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:51:30] [part] Exterminator_Snipa has left the server (0:1)
+[03:51:30] [SA-MP+] Disconnected: 127.0.0.1|58897
+[03:51:30] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[03:52:31] [SA-MP+] Unhandled connection accepted: 127.0.0.1:53718
+[03:52:31] [SA-MP+] Unknown packet received: 19, local: 0
+[03:52:35] Incoming connection: 127.0.0.1:52123
+[03:52:35] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[03:52:35] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[03:53:32] [part] Exterminator_Snipa has left the server (0:1)
+[03:53:32] [SA-MP+] Disconnected: 127.0.0.1|53718
+[03:53:32] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[04:07:41] 
+[04:07:41] Server Plugins
+[04:07:41] --------------
+[04:07:41]  Loading plugin: crashdetect
+[04:07:41]   CrashDetect v4.15.1 is OK.
+[04:07:41]   Loaded.
+[04:07:41]  Loading plugin: sampp_server
+[04:07:41] [SA-MP+] Loaded
+[04:07:41]   Loaded.
+[04:07:41]  Loading plugin: sscanf
+[04:07:41] 
+
+[04:07:41]  ===============================
+
+[04:07:41]       sscanf plugin loaded.     
+
+[04:07:41]          Version:  2.8.1        
+
+[04:07:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[04:07:41]  ===============================
+
+[04:07:41]   Loaded.
+[04:07:41]  Loading plugin: dc_cmd
+[04:07:41]   Daniel's CMD plugin v2.8
+[04:07:41]     (c) 2014 Daniel_Cortez
+[04:07:41] 	www.pro-pawn.ru
+[04:07:41]   Loaded.
+[04:07:41]  Loaded 4 plugins.
+
+[04:07:41] 
+[04:07:41] Filterscripts
+[04:07:41] ---------------
+[04:07:41]   Loaded 0 filterscripts.
+
+[04:07:41] Number of vehicle models: 0
+[04:08:03] [SA-MP+] Unhandled connection accepted: 127.0.0.1:53116
+[04:08:03] [SA-MP+] Unknown packet received: 19, local: 0
+[04:08:07] Incoming connection: 127.0.0.1:53117
+[04:08:07] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[04:08:07] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[04:11:06] [part] Exterminator_Snipa has left the server (0:1)
+[04:11:06] [SA-MP+] Disconnected: 127.0.0.1|53116
+[04:11:06] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[16:36:15] 
+[16:36:15] Server Plugins
+[16:36:15] --------------
+[16:36:15]  Loading plugin: crashdetect
+[16:36:15]   CrashDetect v4.15.1 is OK.
+[16:36:15]   Loaded.
+[16:36:15]  Loading plugin: sampp_server
+[16:36:15] [SA-MP+] Loaded
+[16:36:15]   Loaded.
+[16:36:15]  Loading plugin: sscanf
+[16:36:16] 
+
+[16:36:16]  ===============================
+
+[16:36:16]       sscanf plugin loaded.     
+
+[16:36:16]          Version:  2.8.1        
+
+[16:36:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:36:16]  ===============================
+
+[16:36:16]   Loaded.
+[16:36:16]  Loading plugin: dc_cmd
+[16:36:16]   Daniel's CMD plugin v2.8
+[16:36:16]     (c) 2014 Daniel_Cortez
+[16:36:16] 	www.pro-pawn.ru
+[16:36:16]   Loaded.
+[16:36:16]  Loaded 4 plugins.
+
+[16:36:16] 
+[16:36:16] Filterscripts
+[16:36:16] ---------------
+[16:36:16]   Loaded 0 filterscripts.
+
+[16:36:16] Number of vehicle models: 0
+[16:37:13] [SA-MP+] Unhandled connection accepted: 127.0.0.1:50601
+[16:37:13] [SA-MP+] Unknown packet received: 19, local: 0
+[16:38:05] Incoming connection: 127.0.0.1:64645
+[16:38:05] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[16:38:05] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[16:38:20] [SA-MP+] Connection lost: 127.0.0.1|50601
+[16:38:20] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[16:38:29] [part] Exterminator_Snipa has left the server (0:1)
+[16:39:05] [SA-MP+] Unhandled connection accepted: 127.0.0.1:55355
+[16:39:05] [SA-MP+] Unknown packet received: 19, local: 0
+[16:39:09] Incoming connection: 127.0.0.1:58776
+[16:39:10] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[16:39:10] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[16:41:33] [part] Exterminator_Snipa has left the server (0:1)
+[16:41:33] [SA-MP+] Disconnected: 127.0.0.1|55355
+[16:41:33] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[16:42:30] [SA-MP+] Unhandled connection accepted: 127.0.0.1:58923
+[16:42:30] [SA-MP+] Unknown packet received: 19, local: 0
+[16:42:34] Incoming connection: 127.0.0.1:58927
+[16:42:34] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[16:42:34] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[16:45:22] [part] Exterminator_Snipa has left the server (0:1)
+[16:45:22] [SA-MP+] Disconnected: 127.0.0.1|58923
+[16:45:22] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[16:52:16] [SA-MP+] Unhandled connection accepted: 127.0.0.1:51676
+[16:52:16] [SA-MP+] Unknown packet received: 19, local: 0
+[16:52:20] Incoming connection: 127.0.0.1:51678
+[16:52:21] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[16:52:21] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17:20:01] 
+[17:20:01] Server Plugins
+[17:20:01] --------------
+[17:20:01]  Loading plugin: crashdetect
+[17:20:01]   CrashDetect v4.15.1 is OK.
+[17:20:01]   Loaded.
+[17:20:01]  Loading plugin: sampp_server
+[17:20:01] [SA-MP+] Loaded
+[17:20:01]   Loaded.
+[17:20:01]  Loading plugin: sscanf
+[17:20:01] 
+
+[17:20:01]  ===============================
+
+[17:20:01]       sscanf plugin loaded.     
+
+[17:20:01]          Version:  2.8.1        
+
+[17:20:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:20:01]  ===============================
+
+[17:20:01]   Loaded.
+[17:20:01]  Loading plugin: dc_cmd
+[17:20:01]   Daniel's CMD plugin v2.8
+[17:20:01]     (c) 2014 Daniel_Cortez
+[17:20:01] 	www.pro-pawn.ru
+[17:20:01]   Loaded.
+[17:20:01]  Loaded 4 plugins.
+
+[17:20:02] 
+[17:20:02] Filterscripts
+[17:20:02] ---------------
+[17:20:02]   Loaded 0 filterscripts.
+
+[17:20:02] Number of vehicle models: 0
+[17:20:29] [SA-MP+] Unhandled connection accepted: 127.0.0.1:58340
+[17:20:29] [SA-MP+] Unknown packet received: 19, local: 0
+[17:20:33] Incoming connection: 127.0.0.1:57714
+[17:20:33] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[17:20:33] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[17:20:48] [SA-MP+] Connection lost: 127.0.0.1|58340
+[17:20:48] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[17:21:09] [part] Exterminator_Snipa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[17:21:23] 
+[17:21:23] Server Plugins
+[17:21:23] --------------
+[17:21:23]  Loading plugin: crashdetect
+[17:21:23]   CrashDetect v4.15.1 is OK.
+[17:21:23]   Loaded.
+[17:21:23]  Loading plugin: sampp_server
+[17:21:23] [SA-MP+] Loaded
+[17:21:23]   Loaded.
+[17:21:23]  Loading plugin: sscanf
+[17:21:23] 
+
+[17:21:23]  ===============================
+
+[17:21:23]       sscanf plugin loaded.     
+
+[17:21:23]          Version:  2.8.1        
+
+[17:21:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:21:23]  ===============================
+
+[17:21:23]   Loaded.
+[17:21:23]  Loading plugin: dc_cmd
+[17:21:23]   Daniel's CMD plugin v2.8
+[17:21:23]     (c) 2014 Daniel_Cortez
+[17:21:23] 	www.pro-pawn.ru
+[17:21:23]   Loaded.
+[17:21:23]  Loaded 4 plugins.
+
+[17:21:23] 
+[17:21:23] Filterscripts
+[17:21:23] ---------------
+[17:21:23]   Loaded 0 filterscripts.
+
+[17:21:23] Number of vehicle models: 0
+[17:21:43] [SA-MP+] Unhandled connection accepted: 127.0.0.1:63783
+[17:21:43] [SA-MP+] Unknown packet received: 19, local: 0
+[17:21:47] Incoming connection: 127.0.0.1:63784
+[17:21:47] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[17:21:47] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[17:24:34] [part] Exterminator_Snipa has left the server (0:1)
+[17:24:34] [SA-MP+] Disconnected: 127.0.0.1|63783
+[17:24:34] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[18:04:51] 
+[18:04:51] Server Plugins
+[18:04:51] --------------
+[18:04:51]  Loading plugin: crashdetect
+[18:04:51]   CrashDetect v4.15.1 is OK.
+[18:04:51]   Loaded.
+[18:04:51]  Loading plugin: sampp_server
+[18:04:51] [SA-MP+] Loaded
+[18:04:52]   Loaded.
+[18:04:52]  Loading plugin: sscanf
+[18:04:52] 
+
+[18:04:52]  ===============================
+
+[18:04:52]       sscanf plugin loaded.     
+
+[18:04:52]          Version:  2.8.1        
+
+[18:04:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[18:04:52]  ===============================
+
+[18:04:52]   Loaded.
+[18:04:52]  Loading plugin: dc_cmd
+[18:04:52]   Daniel's CMD plugin v2.8
+[18:04:52]     (c) 2014 Daniel_Cortez
+[18:04:52] 	www.pro-pawn.ru
+[18:04:52]   Loaded.
+[18:04:52]  Loaded 4 plugins.
+
+[18:04:52] 
+[18:04:52] Filterscripts
+[18:04:52] ---------------
+[18:04:52]   Loaded 0 filterscripts.
+
+[18:04:52] Number of vehicle models: 0
+[18:05:57] [SA-MP+] Unhandled connection accepted: 127.0.0.1:63872
+[18:05:57] [SA-MP+] Unknown packet received: 19, local: 0
+[18:06:10] Incoming connection: 127.0.0.1:60141
+[18:06:11] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[18:06:11] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[18:07:10] [SA-MP+] Connection lost: 127.0.0.1|63872
+[18:07:10] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[18:07:22] [part] Exterminator_Snipa has left the server (0:0)
+[18:07:42] [SA-MP+] Unhandled connection accepted: 127.0.0.1:65367
+[18:07:42] [SA-MP+] Unknown packet received: 19, local: 0
+[18:07:46] Incoming connection: 127.0.0.1:65368
+[18:07:46] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[18:07:46] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[18:13:15] [SA-MP+] Connection lost: 127.0.0.1|65367
+[18:13:15] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[18:13:23] [part] Exterminator_Snipa has left the server (0:0)
+[18:14:47] [SA-MP+] Unhandled connection accepted: 127.0.0.1:62278
+[18:14:47] [SA-MP+] Unknown packet received: 19, local: 0
+[18:14:51] Incoming connection: 127.0.0.1:62281
+[18:14:51] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[18:14:51] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[18:17:51] [part] Exterminator_Snipa has left the server (0:1)
+[18:17:51] [SA-MP+] Disconnected: 127.0.0.1|62278
+[18:17:51] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[22:49:54] 
+[22:49:54] Server Plugins
+[22:49:54] --------------
+[22:49:54]  Loading plugin: crashdetect
+[22:49:54]   CrashDetect v4.15.1 is OK.
+[22:49:54]   Loaded.
+[22:49:54]  Loading plugin: sampp_server
+[22:49:54] [SA-MP+] Loaded
+[22:49:54]   Loaded.
+[22:49:54]  Loading plugin: sscanf
+[22:49:54] 
+
+[22:49:54]  ===============================
+
+[22:49:54]       sscanf plugin loaded.     
+
+[22:49:54]          Version:  2.8.1        
+
+[22:49:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:49:54]  ===============================
+
+[22:49:54]   Loaded.
+[22:49:54]  Loading plugin: dc_cmd
+[22:49:54]   Daniel's CMD plugin v2.8
+[22:49:54]     (c) 2014 Daniel_Cortez
+[22:49:54] 	www.pro-pawn.ru
+[22:49:54]   Loaded.
+[22:49:54]  Loaded 4 plugins.
+
+[22:49:54] 
+[22:49:54] Filterscripts
+[22:49:54] ---------------
+[22:49:54]   Loaded 0 filterscripts.
+
+[22:49:54] Number of vehicle models: 0
+[22:50:32] [SA-MP+] Unhandled connection accepted: 127.0.0.1:51798
+[22:50:32] [SA-MP+] Unknown packet received: 19, local: 0
+[22:50:37] Incoming connection: 127.0.0.1:59059
+[22:50:37] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[22:50:37] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[22:51:12] [part] Exterminator_Snipa has left the server (0:1)
+[22:51:12] [SA-MP+] Disconnected: 127.0.0.1|51798
+[22:51:12] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[22:53:32] [SA-MP+] Unhandled connection accepted: 127.0.0.1:62217
+[22:53:32] [SA-MP+] Unknown packet received: 19, local: 0
+[22:53:36] Incoming connection: 127.0.0.1:65414
+[22:53:36] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[22:53:36] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[22:53:44] [part] Exterminator_Snipa has left the server (0:1)
+[22:53:44] [SA-MP+] Disconnected: 127.0.0.1|62217
+[22:53:44] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[22:55:23] 
+[22:55:23] Server Plugins
+[22:55:23] --------------
+[22:55:23]  Loading plugin: crashdetect
+[22:55:23]   CrashDetect v4.15.1 is OK.
+[22:55:23]   Loaded.
+[22:55:23]  Loading plugin: sampp_server
+[22:55:23] [SA-MP+] Loaded
+[22:55:23]   Loaded.
+[22:55:23]  Loading plugin: sscanf
+[22:55:23] 
+
+[22:55:23]  ===============================
+
+[22:55:23]       sscanf plugin loaded.     
+
+[22:55:23]          Version:  2.8.1        
+
+[22:55:23]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:55:23]  ===============================
+
+[22:55:23]   Loaded.
+[22:55:23]  Loading plugin: dc_cmd
+[22:55:23]   Daniel's CMD plugin v2.8
+[22:55:23]     (c) 2014 Daniel_Cortez
+[22:55:23] 	www.pro-pawn.ru
+[22:55:23]   Loaded.
+[22:55:23]  Loaded 4 plugins.
+
+[22:55:23] 
+[22:55:23] Filterscripts
+[22:55:23] ---------------
+[22:55:23]   Loaded 0 filterscripts.
+
+[22:55:23] Number of vehicle models: 0
+[22:55:38] [SA-MP+] Unhandled connection accepted: 127.0.0.1:60488
+[22:55:38] [SA-MP+] Unknown packet received: 19, local: 0
+[22:55:42] Incoming connection: 127.0.0.1:60489
+[22:55:42] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[22:55:42] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[23:00:29] [part] Exterminator_Snipa has left the server (0:1)
+[23:00:29] [SA-MP+] Disconnected: 127.0.0.1|60488
+[23:00:29] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[23:01:00] 
+[23:01:00] Server Plugins
+[23:01:00] --------------
+[23:01:00]  Loading plugin: crashdetect
+[23:01:00]   CrashDetect v4.15.1 is OK.
+[23:01:00]   Loaded.
+[23:01:00]  Loading plugin: sampp_server
+[23:01:00] [SA-MP+] Loaded
+[23:01:00]   Loaded.
+[23:01:00]  Loading plugin: sscanf
+[23:01:00] 
+
+[23:01:00]  ===============================
+
+[23:01:00]       sscanf plugin loaded.     
+
+[23:01:00]          Version:  2.8.1        
+
+[23:01:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:01:00]  ===============================
+
+[23:01:00]   Loaded.
+[23:01:00]  Loading plugin: dc_cmd
+[23:01:00]   Daniel's CMD plugin v2.8
+[23:01:00]     (c) 2014 Daniel_Cortez
+[23:01:00] 	www.pro-pawn.ru
+[23:01:00]   Loaded.
+[23:01:00]  Loaded 4 plugins.
+
+[23:01:00] 
+[23:01:00] Filterscripts
+[23:01:00] ---------------
+[23:01:00]   Loaded 0 filterscripts.
+
+[23:01:00] Number of vehicle models: 0
+[23:01:15] [SA-MP+] Unhandled connection accepted: 127.0.0.1:59270
+[23:01:15] [SA-MP+] Unknown packet received: 19, local: 0
+[23:01:19] Incoming connection: 127.0.0.1:59274
+[23:01:19] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[23:01:19] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[23:01:51] [part] Exterminator_Snipa has left the server (0:1)
+[23:01:51] [SA-MP+] Disconnected: 127.0.0.1|59270
+[23:01:51] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[23:12:01] 
+[23:12:01] Server Plugins
+[23:12:01] --------------
+[23:12:01]  Loading plugin: crashdetect
+[23:12:01]   CrashDetect v4.15.1 is OK.
+[23:12:01]   Loaded.
+[23:12:01]  Loading plugin: sampp_server
+[23:12:01] [SA-MP+] Loaded
+[23:12:01]   Loaded.
+[23:12:01]  Loading plugin: sscanf
+[23:12:01] 
+
+[23:12:01]  ===============================
+
+[23:12:01]       sscanf plugin loaded.     
+
+[23:12:01]          Version:  2.8.1        
+
+[23:12:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:12:01]  ===============================
+
+[23:12:01]   Loaded.
+[23:12:01]  Loading plugin: dc_cmd
+[23:12:01]   Daniel's CMD plugin v2.8
+[23:12:01]     (c) 2014 Daniel_Cortez
+[23:12:01] 	www.pro-pawn.ru
+[23:12:01]   Loaded.
+[23:12:01]  Loaded 4 plugins.
+
+[23:12:01] 
+[23:12:01] Filterscripts
+[23:12:01] ---------------
+[23:12:01]   Loaded 0 filterscripts.
+
+[23:12:01] Number of vehicle models: 0
+[23:12:16] [SA-MP+] Unhandled connection accepted: 127.0.0.1:57049
+[23:12:16] [SA-MP+] Unknown packet received: 19, local: 0
+[23:12:20] Incoming connection: 127.0.0.1:57050
+[23:12:20] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[23:12:20] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[23:14:26] [part] Exterminator_Snipa has left the server (0:1)
+[23:14:27] [SA-MP+] Disconnected: 127.0.0.1|57049
+[23:14:27] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[23:15:34] 
+[23:15:34] Server Plugins
+[23:15:34] --------------
+[23:15:34]  Loading plugin: crashdetect
+[23:15:34]   CrashDetect v4.15.1 is OK.
+[23:15:34]   Loaded.
+[23:15:34]  Loading plugin: sampp_server
+[23:15:34] [SA-MP+] Loaded
+[23:15:34]   Loaded.
+[23:15:34]  Loading plugin: sscanf
+[23:15:34] 
+
+[23:15:34]  ===============================
+
+[23:15:34]       sscanf plugin loaded.     
+
+[23:15:34]          Version:  2.8.1        
+
+[23:15:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:15:34]  ===============================
+
+[23:15:34]   Loaded.
+[23:15:34]  Loading plugin: dc_cmd
+[23:15:34]   Daniel's CMD plugin v2.8
+[23:15:34]     (c) 2014 Daniel_Cortez
+[23:15:34] 	www.pro-pawn.ru
+[23:15:34]   Loaded.
+[23:15:34]  Loaded 4 plugins.
+
+[23:15:34] 
+[23:15:34] Filterscripts
+[23:15:34] ---------------
+[23:15:34]   Loaded 0 filterscripts.
+
+[23:15:34] Number of vehicle models: 0
+[23:15:49] [SA-MP+] Unhandled connection accepted: 127.0.0.1:65173
+[23:15:49] [SA-MP+] Unknown packet received: 19, local: 0
+[23:15:53] Incoming connection: 127.0.0.1:65174
+[23:15:53] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[23:15:53] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[23:18:02] [part] Exterminator_Snipa has left the server (0:1)
+[23:18:02] [SA-MP+] Disconnected: 127.0.0.1|65173
+[23:18:02] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[23:18:33] [SA-MP+] Unhandled connection accepted: 127.0.0.1:63514
+[23:18:33] [SA-MP+] Unknown packet received: 19, local: 0
+[23:18:37] Incoming connection: 127.0.0.1:62240
+[23:18:37] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[23:18:37] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[23:18:52] [part] Exterminator_Snipa has left the server (0:1)
+[23:18:52] [SA-MP+] Disconnected: 127.0.0.1|63514
+[23:18:52] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[23:22:00] [SA-MP+] Unhandled connection accepted: 127.0.0.1:49468
+[23:22:00] [SA-MP+] Unknown packet received: 19, local: 0
+[23:22:05] Incoming connection: 127.0.0.1:49469
+[23:22:05] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[23:22:05] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[23:22:55] [SA-MP+] Connection lost: 127.0.0.1|49468
+[23:22:55] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[23:23:04] [part] Exterminator_Snipa has left the server (0:0)
+[23:23:09] [SA-MP+] Unhandled connection accepted: 127.0.0.1:54311
+[23:23:09] [SA-MP+] Unknown packet received: 19, local: 0
+[23:23:13] Incoming connection: 127.0.0.1:54312
+[23:23:14] [join] Exterminator_Snipa has joined the server (0:127.0.0.1)
+[23:23:14] [SA-MP+] Player connecting, has the SA-MP+ plugin: 1
+[23:23:34] [SA-MP+] Connection lost: 127.0.0.1|54311
+[23:23:34] [SA-MP+] Connection status: unhandledConnections: 0, players: 0
+[23:23:44] [part] Exterminator_Snipa has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[15:31:09] 
+[15:31:09] Server Plugins
+[15:31:09] --------------
+[15:31:09]  Loading plugin: crashdetect
+[15:31:09]   CrashDetect v4.15.1 is OK.
+[15:31:09]   Loaded.
+[15:31:09]  Loading plugin: sampp_server
+[15:31:09] [SA-MP+] Loaded
+[15:31:09]   Loaded.
+[15:31:09]  Loading plugin: sscanf
+[15:31:09] 
+
+[15:31:09]  ===============================
+
+[15:31:09]       sscanf plugin loaded.     
+
+[15:31:09]          Version:  2.8.1        
+
+[15:31:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:31:09]  ===============================
+
+[15:31:09]   Loaded.
+[15:31:09]  Loading plugin: dc_cmd
+[15:31:09]   Daniel's CMD plugin v2.8
+[15:31:09]     (c) 2014 Daniel_Cortez
+[15:31:09] 	www.pro-pawn.ru
+[15:31:09]   Loaded.
+[15:31:09]  Loaded 4 plugins.
+
+[15:31:10] 
+[15:31:10] Filterscripts
+[15:31:10] ---------------
+[15:31:10]   Loaded 0 filterscripts.
+
+[15:31:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[15:31:41] 
+[15:31:41] Server Plugins
+[15:31:41] --------------
+[15:31:41]  Loading plugin: crashdetect
+[15:31:41]   CrashDetect v4.15.1 is OK.
+[15:31:41]   Loaded.
+[15:31:41]  Loading plugin: sampp_server
+[15:31:41] [SA-MP+] Loaded
+[15:31:41]   Loaded.
+[15:31:41]  Loading plugin: sscanf
+[15:31:41] 
+
+[15:31:41]  ===============================
+
+[15:31:41]       sscanf plugin loaded.     
+
+[15:31:41]          Version:  2.8.1        
+
+[15:31:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:31:41]  ===============================
+
+[15:31:41]   Loaded.
+[15:31:41]  Loading plugin: dc_cmd
+[15:31:41]   Daniel's CMD plugin v2.8
+[15:31:41]     (c) 2014 Daniel_Cortez
+[15:31:41] 	www.pro-pawn.ru
+[15:31:41]   Loaded.
+[15:31:41]  Loaded 4 plugins.
+
+[15:31:41] 
+[15:31:41] Filterscripts
+[15:31:41] ---------------
+[15:31:41]   Loaded 0 filterscripts.
+
+[15:31:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[15:40:14] 
+[15:40:14] Server Plugins
+[15:40:14] --------------
+[15:40:14]  Loading plugin: crashdetect
+[15:40:14]   CrashDetect v4.15.1 is OK.
+[15:40:14]   Loaded.
+[15:40:14]  Loading plugin: sampp_server
+[15:40:14] [SA-MP+] Loaded
+[15:40:14]   Loaded.
+[15:40:14]  Loading plugin: sscanf
+[15:40:14] 
+
+[15:40:14]  ===============================
+
+[15:40:14]       sscanf plugin loaded.     
+
+[15:40:14]          Version:  2.8.1        
+
+[15:40:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:40:14]  ===============================
+
+[15:40:14]   Loaded.
+[15:40:14]  Loading plugin: dc_cmd
+[15:40:14]   Daniel's CMD plugin v2.8
+[15:40:14]     (c) 2014 Daniel_Cortez
+[15:40:14] 	www.pro-pawn.ru
+[15:40:14]   Loaded.
+[15:40:14]  Loaded 4 plugins.
+
+[15:40:14] 
+[15:40:14] Filterscripts
+[15:40:14] ---------------
+[15:40:14]   Loaded 0 filterscripts.
+
+[15:40:14] Number of vehicle models: 0

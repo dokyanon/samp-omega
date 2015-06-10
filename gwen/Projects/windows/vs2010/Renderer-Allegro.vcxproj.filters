@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Renderers">
+      <UniqueIdentifier>{CFF0E342-7443-1842-9F3E-17473DFBAAE0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderers\Allegro">
+      <UniqueIdentifier>{F6A5F05F-BC4F-2F4F-9526-E316C9614CE3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Renderers\Allegro\Allegro.cpp">
+      <Filter>Renderers\Allegro</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

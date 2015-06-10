@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{14D55EBE-A874-4AEC-AA4E-8103DB779038}</ProjectGuid>
+    <RootNamespace>Client</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)Build\$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)Build\Temp\Client\$(Configuration)\</IntDir>
+    <TargetName>sampp_client</TargetName>
+    <TargetExt>.asi</TargetExt>
+    <IncludePath>$(SolutionDir)Include;$(SolutionDir)Include/RakNet;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Library;$(LibraryPath)</LibraryPath>
+    <LinkIncremental>
+    </LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)Build\$(Configuration)\</OutDir>
+    <IntDir>$(SolutionDir)Build\Temp\Client\$(Configuration)\</IntDir>
+    <TargetName>sampp_client</TargetName>
+    <TargetExt>.asi</TargetExt>
+    <IncludePath>$(SolutionDir)Include;$(SolutionDir)Include/RakNet;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)Library;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>$(ProjectDir);$(ProjectDir)\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>DEBUG;DIRECTINPUT_VERSION#0x0800;_WIN32_WINNT#0x0500;WIN32_LEAN_AND_MEAN;WIN32;_WINDOWS;_USRDLL;_CRT_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <CallingConvention>StdCall</CallingConvention>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>ws2_32.lib;Detours\detours.lib;DirectX\d3dx9.lib;DirectX\dinput8.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <CallingConvention>StdCall</CallingConvention>
+      <PreprocessorDefinitions>DEBUG;DIRECTINPUT_VERSION#0x0800;_WIN32_WINNT#0x0500;WIN32_LEAN_AND_MEAN;WIN32;_WINDOWS;_USRDLL;_CRT_SECURE_NO_WARNINGS;_CRT_SECURE_NO_DEPRECATE;_WINSOCK_DEPRECATED_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(ProjectDir);$(ProjectDir)\Include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <ImageHasSafeExceptionHandlers>false</ImageHasSafeExceptionHandlers>
+      <AdditionalDependencies>Detours\detours.lib;DirectX\d3dx9.lib;DirectX\dxguid.lib;DirectX\dinput8.lib;FreeImage.lib;GWEN-Renderer-DirectX9.lib;gwen.lib;ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Manifest>
+      <OutputManifestFile>$(IntDir)$(TargetName)$(TargetExt).embed.manifest</OutputManifestFile>
+    </Manifest>
+    <ManifestResourceCompile>
+      <ResourceOutputFileName>$(IntDir)$(TargetName)$(TargetExt).embed.manifest.res</ResourceOutputFileName>
+    </ManifestResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Common\CRPC.cpp" />
+    <ClCompile Include="..\Common\RakNet\Base64Encoder.cpp" />
+    <ClCompile Include="..\Common\RakNet\BitStream.cpp" />
+    <ClCompile Include="..\Common\RakNet\CCRakNetSlidingWindow.cpp" />
+    <ClCompile Include="..\Common\RakNet\CCRakNetUDT.cpp" />
+    <ClCompile Include="..\Common\RakNet\CheckSum.cpp" />
+    <ClCompile Include="..\Common\RakNet\CloudClient.cpp" />
+    <ClCompile Include="..\Common\RakNet\CloudCommon.cpp" />
+    <ClCompile Include="..\Common\RakNet\CloudServer.cpp" />
+    <ClCompile Include="..\Common\RakNet\CommandParserInterface.cpp" />
+    <ClCompile Include="..\Common\RakNet\ConnectionGraph2.cpp" />
+    <ClCompile Include="..\Common\RakNet\ConsoleServer.cpp" />
+    <ClCompile Include="..\Common\RakNet\DataCompressor.cpp" />
+    <ClCompile Include="..\Common\RakNet\DirectoryDeltaTransfer.cpp" />
+    <ClCompile Include="..\Common\RakNet\DR_SHA1.cpp" />
+    <ClCompile Include="..\Common\RakNet\DS_BytePool.cpp" />
+    <ClCompile Include="..\Common\RakNet\DS_ByteQueue.cpp" />
+    <ClCompile Include="..\Common\RakNet\DS_HuffmanEncodingTree.cpp" />
+    <ClCompile Include="..\Common\RakNet\DS_Table.cpp" />
+    <ClCompile Include="..\Common\RakNet\DynDNS.cpp" />
+    <ClCompile Include="..\Common\RakNet\EmailSender.cpp" />
+    <ClCompile Include="..\Common\RakNet\EpochTimeToString.cpp" />
+    <ClCompile Include="..\Common\RakNet\FileList.cpp" />
+    <ClCompile Include="..\Common\RakNet\FileListTransfer.cpp" />
+    <ClCompile Include="..\Common\RakNet\FileOperations.cpp" />
+    <ClCompile Include="..\Common\RakNet\FormatString.cpp" />
+    <ClCompile Include="..\Common\RakNet\FullyConnectedMesh2.cpp" />
+    <ClCompile Include="..\Common\RakNet\Getche.cpp" />
+    <ClCompile Include="..\Common\RakNet\Gets.cpp" />
+    <ClCompile Include="..\Common\RakNet\GetTime.cpp" />
+    <ClCompile Include="..\Common\RakNet\gettimeofday.cpp" />
+    <ClCompile Include="..\Common\RakNet\GridSectorizer.cpp" />
+    <ClCompile Include="..\Common\RakNet\HTTPConnection.cpp" />
+    <ClCompile Include="..\Common\RakNet\HTTPConnection2.cpp" />
+    <ClCompile Include="..\Common\RakNet\IncrementalReadInterface.cpp" />
+    <ClCompile Include="..\Common\RakNet\Itoa.cpp" />
+    <ClCompile Include="..\Common\RakNet\LinuxStrings.cpp" />
+    <ClCompile Include="..\Common\RakNet\LocklessTypes.cpp" />
+    <ClCompile Include="..\Common\RakNet\LogCommandParser.cpp" />
+    <ClCompile Include="..\Common\RakNet\MessageFilter.cpp" />
+    <ClCompile Include="..\Common\RakNet\NatPunchthroughClient.cpp" />
+    <ClCompile Include="..\Common\RakNet\NatPunchthroughServer.cpp" />
+    <ClCompile Include="..\Common\RakNet\NatTypeDetectionClient.cpp" />
+    <ClCompile Include="..\Common\RakNet\NatTypeDetectionCommon.cpp" />
+    <ClCompile Include="..\Common\RakNet\NatTypeDetectionServer.cpp" />
+    <ClCompile Include="..\Common\RakNet\NetworkIDManager.cpp" />
+    <ClCompile Include="..\Common\RakNet\NetworkIDObject.cpp" />
+    <ClCompile Include="..\Common\RakNet\PacketConsoleLogger.cpp" />
+    <ClCompile Include="..\Common\RakNet\PacketFileLogger.cpp" />
+    <ClCompile Include="..\Common\RakNet\PacketizedTCP.cpp" />
+    <ClCompile Include="..\Common\RakNet\PacketLogger.cpp" />
+    <ClCompile Include="..\Common\RakNet\PacketOutputWindowLogger.cpp" />
+    <ClCompile Include="..\Common\RakNet\PluginInterface2.cpp" />
+    <ClCompile Include="..\Common\RakNet\PS4Includes.cpp" />
+    <ClCompile Include="..\Common\RakNet\Rackspace.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakMemoryOverride.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetCommandParser.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_360_720.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_Berkley.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_Berkley_NativeClient.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_NativeClient.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_PS3_PS4.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_PS4.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_Vita.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_WindowsStore8.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_Windows_Linux.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetSocket2_Windows_Linux_360.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetStatistics.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetTransport2.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakNetTypes.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakPeer.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakSleep.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakString.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakThread.cpp" />
+    <ClCompile Include="..\Common\RakNet\RakWString.cpp" />
+    <ClCompile Include="..\Common\RakNet\Rand.cpp" />
+    <ClCompile Include="..\Common\RakNet\RandSync.cpp" />
+    <ClCompile Include="..\Common\RakNet\ReadyEvent.cpp" />
+    <ClCompile Include="..\Common\RakNet\RelayPlugin.cpp" />
+    <ClCompile Include="..\Common\RakNet\ReliabilityLayer.cpp" />
+    <ClCompile Include="..\Common\RakNet\ReplicaManager3.cpp" />
+    <ClCompile Include="..\Common\RakNet\Router2.cpp" />
+    <ClCompile Include="..\Common\RakNet\RPC4Plugin.cpp" />
+    <ClCompile Include="..\Common\RakNet\SecureHandshake.cpp" />
+    <ClCompile Include="..\Common\RakNet\SendToThread.cpp" />
+    <ClCompile Include="..\Common\RakNet\SignaledEvent.cpp" />
+    <ClCompile Include="..\Common\RakNet\SimpleMutex.cpp" />
+    <ClCompile Include="..\Common\RakNet\SocketLayer.cpp" />
+    <ClCompile Include="..\Common\RakNet\StatisticsHistory.cpp" />
+    <ClCompile Include="..\Common\RakNet\StringCompressor.cpp" />
+    <ClCompile Include="..\Common\RakNet\StringTable.cpp" />
+    <ClCompile Include="..\Common\RakNet\SuperFastHash.cpp" />
+    <ClCompile Include="..\Common\RakNet\TableSerializer.cpp" />
+    <ClCompile Include="..\Common\RakNet\TCPInterface.cpp" />
+    <ClCompile Include="..\Common\RakNet\TeamBalancer.cpp" />
+    <ClCompile Include="..\Common\RakNet\TeamManager.cpp" />
+    <ClCompile Include="..\Common\RakNet\TelnetTransport.cpp" />
+    <ClCompile Include="..\Common\RakNet\ThreadsafePacketLogger.cpp" />
+    <ClCompile Include="..\Common\RakNet\TwoWayAuthentication.cpp" />
+    <ClCompile Include="..\Common\RakNet\UDPForwarder.cpp" />
+    <ClCompile Include="..\Common\RakNet\UDPProxyClient.cpp" />
+    <ClCompile Include="..\Common\RakNet\UDPProxyCoordinator.cpp" />
+    <ClCompile Include="..\Common\RakNet\UDPProxyServer.cpp" />
+    <ClCompile Include="..\Common\RakNet\VariableDeltaSerializer.cpp" />
+    <ClCompile Include="..\Common\RakNet\VariableListDeltaTracker.cpp" />
+    <ClCompile Include="..\Common\RakNet\VariadicSQLParser.cpp" />
+    <ClCompile Include="..\Common\RakNet\VitaIncludes.cpp" />
+    <ClCompile Include="..\Common\RakNet\WSAStartupSingleton.cpp" />
+    <ClCompile Include="..\Common\RakNet\_FindFirst.cpp" />
+    <ClCompile Include="cBox.cpp" />
+    <ClCompile Include="cButton.cpp" />
+    <ClCompile Include="CCanvas.cpp" />
+    <ClCompile Include="CCmdlineParams.cpp" />
+    <ClCompile Include="CGame.cpp" />
+    <ClCompile Include="CGraphics.cpp" />
+    <ClCompile Include="CHooks.cpp" />
+    <ClCompile Include="CHUD.cpp" />
+    <ClCompile Include="CLocalPlayer.cpp" />
+    <ClCompile Include="CLog.cpp" />
+    <ClCompile Include="CMem.cpp" />
+    <ClCompile Include="CPoint2D.cpp" />
+    <ClCompile Include="CRakClient.cpp" />
+    <ClCompile Include="CRPCCallback.cpp" />
+    <ClCompile Include="cSprite.cpp" />
+    <ClCompile Include="CSystem.cpp" />
+    <ClCompile Include="cText.cpp" />
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="Network.cpp" />
+    <ClCompile Include="Proxy\CD3D9DeviceProxy.cpp" />
+    <ClCompile Include="Proxy\CD3D9Proxy.cpp" />
+    <ClCompile Include="Proxy\CDInput8DeviceProxy.cpp" />
+    <ClCompile Include="Proxy\CDInput8Proxy.cpp" />
+    <ClCompile Include="Proxy\CJmpProxy.cpp" />
+    <ClCompile Include="Proxy\CMessageProxy.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cBox.h" />
+    <ClInclude Include="cButton.h" />
+    <ClInclude Include="cCanvas.h" />
+    <ClInclude Include="cSprite.h" />
+    <ClInclude Include="cText.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Renderers">
+      <UniqueIdentifier>{F0E45011-FB13-E54B-85F8-C8E14A9FFEEF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renderers\DirectX9">
+      <UniqueIdentifier>{1356C5B9-8E73-694F-9701-74E8C0E63DAF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Renderers\DirectX9\DirectX9.cpp">
+      <Filter>Renderers\DirectX9</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
