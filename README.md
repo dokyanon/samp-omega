@@ -87,8 +87,11 @@ Functions
   * OnPlayerEnterPauseSubmenu(playerid, from, to)
   * OnDriverDriveByShot(playerid)
   * OnPlayerStunt(playerid, stuntid, money, details[])
-  * OnPlayerResolutionChange(playerid, width, height)
+  * OnPlayerResolutionChange(playerid, X, Y)
+  * OnPlayerSAMPPConnect(address[], port)
+  * OnPlayerSAMPPJoin(playerid, bool:has_plugin)
   * OnPlayerClick(playerid, type, X, Y)
+  * OnPlayerKeyDown(playerid, key)
   * OnPlayerChangeRadioStation(playerid, stationid, vehicleid)
   * OnPlayerDrinkSprunk(playerid)
 
@@ -107,6 +110,15 @@ Functions
   * MoveD3DSprite (playerid, id, Float:x, Float:y);
   * RotateD3DSprite (playerid, id, Float:angle);
   * ShowD3DSprite (playerid, id, bool:toggle); 
+  * CreateButton(playerid, canvas);
+  * SetPosButton(playerid, id, x, y);
+  * SetTextButton(playerid, id, text[]);
+  * SetSizeButton(playerid, id, w, h);
+  * DestroyButton(playerid, id);
+  * CreateCanvas (playerid);
+  * SetBackColorCanvas (playerid, id, r, g, b, a);
+  * SetCanvasSize (playerid, id, w, h);
+  * DestroyCanvas (playerid, id);
 
 Compilation
 ---------
