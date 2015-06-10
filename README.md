@@ -7,6 +7,7 @@ Download
 ---------
   * [PAWN include.](srv/pawno/include/sampp.inc?raw=true)
   * [Source code.](https://github.com/Debug-/samp-omega/archive/master.zip)
+  * [Client] (https://github.com/Debug-/samp-omega/blob/master/srv/client/sampp_client.asi)
 
 Installation (Client)
 ---------
