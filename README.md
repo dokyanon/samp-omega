@@ -1,4 +1,4 @@
-#SA-MP Omega [SA-MP Plus Fork] (https://github.com/KingHual/SA-MP-Plus)
+#SA-MP Omega [SA-MP Plus] (https://github.com/KingHual/SA-MP-Plus) Fork
 ==========
 
 A client modification that uses SA-MP's plugin SDK to interact with the server and add new features
