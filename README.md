@@ -13,7 +13,7 @@ Installation (Client)
 ---------
 
   * Download and install an [ASI Loader for GTA San Andreas](http://www.gtagarage.com/mods/show.php?id=8321) if you don't have one,
-  * Place the [sampp_client.asi] file in your GTA:SA's folder, along with *gta_sa.exe*.
+  * Place the [sampp_client.asi] (https://github.com/Debug-/samp-omega/blob/master/srv/client/sampp_client.asi) file in your GTA:SA's folder, along with *gta_sa.exe*.
   
 
 Installation (Server)
